@@ -2,6 +2,10 @@
 
 I am Facundo Crego Software Engineer from Argentina
 
+## Currently working with
+
+<img src="https://raw.githubusercontent.com/facka/facka/master/vue.svg" alt="Vue" style="vertical-align:top; margin:4px">
+
 <!--
 **facka/facka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
